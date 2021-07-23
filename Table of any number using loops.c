@@ -2,7 +2,7 @@
 int main()
 {
   int var1,i;
-  printf("This is designed by Nikhil Bhardwaj ");
+  printf("This is designed by Khushi dhakad");
   printf("Hello user..... ! Please enter any number:");
   scanf("%d",&var1);
   printf("\n Table of the entered number is");
