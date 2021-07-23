@@ -8,7 +8,7 @@ struct
  
 int main()
 {
- printf("This is designed by Nikhil Bhardwaj \n");
+ printf("This is designed by Khushi dhakad \n");
  printf("Please enter roll no. , age and section of students \n");
  
  scanf("%d",&student1.roll_no);
