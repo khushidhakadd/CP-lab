@@ -2,7 +2,7 @@
 int main()
 {
     int a,b;
-    printf("Using of BITWISE operator. This is designed by Nikhil Bhardwaj\n");
+    printf("Using of BITWISE operator. This is designed by Khushi Dhakad\n");
     printf("Enter the value of a and b:");
     scanf("%d %d",&a,&b);
     //Using BITWISE operator
